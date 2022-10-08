@@ -6,3 +6,5 @@ def one(request):
 
 def two(request):
     return render(request,'two.html')
+
+

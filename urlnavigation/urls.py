@@ -23,4 +23,5 @@ urlpatterns = [
     path('two/',two,name='two'),
     path('app2/',include('app2.urls')),
     path('app2/',include('app2.urls')),
+    path('app2/',include('app2.urls')),
 ]

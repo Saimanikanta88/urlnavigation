@@ -5,4 +5,5 @@ app_name='app2'
 urlpatterns=[
     path('three/',three,name='three'),
     path('four/',four,name='four'),
+    path('five/',five,name='five'),
 ]

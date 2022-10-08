@@ -7,3 +7,5 @@ def three(request):
 def four(request):
     return render(request,'four.html')
 
+def five(request):
+    return render(request,'five.html')
